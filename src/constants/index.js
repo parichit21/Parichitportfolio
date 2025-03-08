@@ -131,10 +131,11 @@ const experiences = [
     iconBg: "#e6e1e1",
     date: "june 2019 - Augest 2019",
     points: [
-      "Organized private and public events on campus for college community.",
-      "Utilized websites and social media to promote campus life, events and opportunities.",
-      "Produced and distributed brochures, newsletters and press kits.",
-      "Used various social media platforms for media and blogger outreach.",
+      "Championing the values and mission of lecturer notes through creative and impactful initiatives.",
+      "Organizing and executing campus events, workshops, and activities to enhance brand visibility and student engagement.",
+      "Building and nurturing relationships with students, faculty, and campus organizations to foster partnerships and opportunities for collaboration.",
+      "Providing valuable feedback and insights to the organization's leadership team based on interactions and",
+      "feedback gathered from the campus community.",
     ],
   },
   {
@@ -143,12 +144,14 @@ const experiences = [
     icon: idemia,
     iconBg: "#0f0f0f",
     date: "Feb 2022 - current ",
+
+
     points: [
-      "Responsible for the in-house tools Development.",
-      "Conducted regression testing, analyzed results, and submitted observations to development team.",
-      "Worked closely with different departments to develop innovative solutions to functionality issues.",
-      "Profile Development and Testing of SIM, and ESIM/eUICC using GSM and SAIP standards.",
-      "Checked configuration files and logs to uncover root causes of problems.",
+      "Collaborated with a team to develop and test in-house tools (Card IO), enhancing overall testing efficiency.",
+      "Estimated test efforts and effectively communicated results to stakeholders for informed decision-making.",
+      "Partnered with cross-functional teams to devise innovative solutions for functionality challenges.",
+      "Enhanced the automation library and framework, significantly improving testing processes.",
+      "Investigated configuration files and logs to identify root causes of issues, utilizing Selenium WebDriver and SOAP UI for automated testing.",
     ],
   },
  
@@ -168,16 +171,17 @@ const testimonials = [
   },
   {
     testimonial:
-      "   Receaved appreciation for optimizing Script, to decrease the time to run perticular script for the testing  ",
+      "Recognized with Spot Awards in Q3 and Q4 for implementing effective digital solutions that improved team workflows and performance.",
     name: "Team IDEMIA",
   },
+  
 ];
 
 const projects = [
   {
     name: "Dashbord",
     description:
-      " created a Admin Dashboard. It is full responsive and also has theme mode/color and this web-app contains multiple charts an apps.",
+      "Created a Admin Dashboard. It is full responsive and also has theme mode/color and this web-app contains multiple charts an apps.",
     tags: [
       {
         name: "react",
@@ -203,7 +207,7 @@ const projects = [
   {
     name: "Crypto News",
     description:
-      "creted cryptonews with the help of Crypto data API( free Api) and Crypto News API(free api) to get all the crypto details and the latest news.",
+      "Creted cryptonews with the help of Crypto data API( free Api) and Crypto News API(free api) to get all the crypto details and the latest news.",
     tags: [
       {
         name: "react",

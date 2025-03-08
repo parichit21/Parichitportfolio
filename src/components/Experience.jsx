@@ -17,7 +17,7 @@ import { experiences } from "../constants";
 import { SectionWrapper } from "../hoc";
 import { textVariant } from "../utils/motion";
 
-const link="https://drive.google.com/file/d/1jcwY4y13NG3M5Z5IcpekorKY-dGeCb0T/view?usp=share_link";
+const link="https://drive.google.com/file/d/1CQ3oiDQozyp3aJh4KawGTBX_ofhgDV6A/view?usp=sharing";
 
 const ExperienceCard = ({ experience }) => {
   return (
